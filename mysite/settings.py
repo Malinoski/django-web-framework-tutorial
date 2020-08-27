@@ -80,7 +80,7 @@ DATABASES = {
         # "NAME": BASE_DIR / "db.sqlite3",
         "NAME": "django_web_tutorial_db",
         "USER": "django",
-        "PASSWORD": "CHANGE_ME",
+        "PASSWORD": "adminadmin@123A",
         "HOST": "192.168.0.114",
         "PORT": "3306",
     }
