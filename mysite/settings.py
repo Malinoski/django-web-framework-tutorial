@@ -82,7 +82,7 @@ DATABASES = {
         "NAME": "django_web_tutorial_db",
         "USER": "django",
         "PASSWORD": "adminadmin@123A",
-        "HOST": "192.168.0.114",
+        "HOST": "192.168.0.102",
         "PORT": "3306",
     }
 }
